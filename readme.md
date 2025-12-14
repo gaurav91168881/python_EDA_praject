@@ -55,12 +55,12 @@ git clone https://github.com/your-username/diwali-sales-analysis.git
 cd diwali-sales-analysis
 ```
 
-### 4️⃣ Install Required Libraries
+### 3️⃣ Install Required Libraries
 ```bash
 pip install numpy pandas matplotlib seaborn jupyter
 ```
 
-### 5️⃣ Run the Jupyter Notebook
+### 4️⃣ Run the Jupyter Notebook
 ```bash
 jupyter notebook
 ```
